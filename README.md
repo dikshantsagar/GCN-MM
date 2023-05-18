@@ -1,8 +1,4 @@
 # GCN-MM
-GCN architecture for multiple myeloma cancer severity prediction.
-
-
-
 
 ### A Graph Convolution based Neural Network to predict multiple myeloma cancer serverity.
 Adjacency matrices (3) used for graph network information is precomputed using Cox Hazard ratios and Kaplan Meier Analysis. For more information see 
